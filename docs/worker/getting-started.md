@@ -119,7 +119,7 @@ Once complete, RabbitMQ is ready for the RMQ Worker.
 
 If you encounter any issues configuring RabbitMQ, feel free to ask in our Discord community:
 
-https://discord.gg/hjsAJF96fY
+https://discord.gg/za4WTwBPmu
 
 ---
 

@@ -218,4 +218,4 @@ Refer to the **Webmail UI Getting Started** guide to complete the deployment.
 
 If you encounter any issues during deployment, please join our Discord community. We're happy to help with setup, configuration, and troubleshooting.
 
-https://discord.gg/hjsAJF96fY
+https://discord.gg/za4WTwBPmu

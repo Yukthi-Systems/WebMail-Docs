@@ -27,7 +27,7 @@ and the [BIMI API](/docs/bimi). Each has its own contributing notes:
 - [UI Contributing guide](/docs/ui/contributing)
 
 Start with an issue if you're planning something non-trivial, so the approach can be
-discussed before you put the work in. Or drop into [Discord](https://discord.gg/29zTxvque)
+discussed before you put the work in. Or drop into [Discord](https://discord.gg/za4WTwBPmu)
 if you'd rather talk it through first.
 
 ## Rewards for serious contributors
